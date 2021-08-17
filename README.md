@@ -1,5 +1,4 @@
 # Christian Sohns
-### tea418pot
 
 I am a software developer with focus on the web.
 
