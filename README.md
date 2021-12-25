@@ -1,6 +1,6 @@
 # Christian Sohns
 
-I create web and mobile apps.
+I create websites and mobile apps.
 
 ### Languages
 I am familiar with JavaScript, TypeScript, C#, Java and Swift.
