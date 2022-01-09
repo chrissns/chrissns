@@ -3,7 +3,7 @@
 ### Languages
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](website)
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](website)
-[![C# Badge](https://img.shields.io/badge/-C#-6723cd?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=6723cd)](website)
+[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&label=C#&labelColor=black&logo=CSharp&logoColor=6723cd)](website)
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=black&logo=Swift&logoColor=fa8128)](website)
 
 ### Tools
