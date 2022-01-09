@@ -1,10 +1,12 @@
 # Christian Sohns
 
-### Languages and Tools
+### Languages
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](website)
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](website)
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=6723cd)](website)
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=black&logo=Swift&logoColor=fa8128)](website)
+
+### Tools
 [![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](website)
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)](website)
 [![Angular Badge](https://img.shields.io/badge/-Angular-de3434?style=for-the-badge&labelColor=black&logo=Angular&logoColor=de3434)](website)
