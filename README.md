@@ -15,7 +15,7 @@
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&labelColor=black&logo=Dotnet&logoColor=6723cd)](website)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007acc)](website)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&labelColor=black&logo=Docker&logoColor=0055a9)](website)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-efefef?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=efefef)](website)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-232323?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=efefef)](website)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
