@@ -10,6 +10,7 @@
 [![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](website)
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)](website)
 [![Angular Badge](https://img.shields.io/badge/-Angular-de3434?style=for-the-badge&labelColor=black&logo=Angular&logoColor=de3434)](website)
+[![.NET Badge](https://img.shields.io/badge/-Dotnet-de3434?style=for-the-badge&labelColor=black&logo=Dotnet&logoColor=de3434)](website)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
