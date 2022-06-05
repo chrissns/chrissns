@@ -13,7 +13,6 @@
 [![Sass Badge](https://img.shields.io/badge/-Sass-fd5ea8?style=for-the-badge&labelColor=black&logo=Sass&logoColor=fd5ea8)][website]
 [![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)][website]
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)][website]
-[![Angular Badge](https://img.shields.io/badge/-Angular-de3434?style=for-the-badge&labelColor=black&logo=Angular&logoColor=de3434)][website]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&labelColor=black&logo=Dotnet&logoColor=6723cd)][website]
 [![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-33349a?style=for-the-badge&labelColor=black&logo=Swift&logoColor=33349a)][website]
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007acc)][website]
