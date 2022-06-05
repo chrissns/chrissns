@@ -14,7 +14,7 @@
 [![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)][website]
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)][website]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&labelColor=black&logo=Dotnet&logoColor=6723cd)][website]
-[![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-33349a?style=for-the-badge&labelColor=black&logo=Swift&logoColor=33349a)][website]
+[![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-34349a?style=for-the-badge&labelColor=black&logo=Swift&logoColor=34349a)][website]
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-128dff?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=128dff)][website]
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007acc)][website]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&labelColor=black&logo=Docker&logoColor=0055a9)][website]
