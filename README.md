@@ -5,7 +5,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)][website]
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=6723cd)][website]
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=black&logo=Swift&logoColor=fa8128)][website]
-[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)][website]
+[![Python Badge](https://img.shields.io/badge/-Python-b08735?style=for-the-badge&labelColor=black&logo=python&logoColor=b08735)][website]
 [![Java Badge](https://img.shields.io/badge/-Java-faddce?style=for-the-badge&labelColor=black&logo=JDK&logoColor=faddce)][website]
 
 ### Tools
