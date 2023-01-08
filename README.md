@@ -21,6 +21,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=efefef)][website]
 
 ### Quote
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Bill Gates
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
 [website]: https://github.com/tea418pot
