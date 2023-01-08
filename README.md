@@ -10,7 +10,7 @@
 ### Tools
 [![HTML Badge](https://img.shields.io/badge/-HTML5-ff6720?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=ff6720)][website]
 [![CSS Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=007acc)][website]
-[![Less Badge](https://img.shields.io/badge/-Less-fd5ea8?style=for-the-badge&labelColor=black&logo=Less&logoColor=fd5ea8)][website]
+[![Less Badge](https://img.shields.io/badge/-Less-34459a?style=for-the-badge&labelColor=black&logo=Less&logoColor=34459a)][website]
 [![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)][website]
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)][website]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&labelColor=black&logo=Dotnet&logoColor=6723cd)][website]
