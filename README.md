@@ -21,6 +21,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=efefef)][website]
 
 ### Quote
-> “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” — Bill Gates
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Bill Gates
 
 [website]: https://github.com/tea418pot
