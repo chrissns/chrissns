@@ -21,7 +21,7 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&labelColor=black&logo=Docker&logoColor=0055a9)][website]
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=efefef)][website]
 
-### Quote
+### Favorite quote
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
 [website]: https://github.com/tea418pot
