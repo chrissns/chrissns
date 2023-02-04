@@ -8,7 +8,6 @@ I am a software engineer that creates apps for the web, iOS and other Apple plat
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)][website]
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=6723cd)][website]
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=black&logo=Swift&logoColor=fa8128)][website]
-[![Java Badge](https://img.shields.io/badge/-Java-faddce?style=for-the-badge&labelColor=black&logo=Java&logoColor=faddce)][website]
 
 ### Tools
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)][website]
