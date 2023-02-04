@@ -17,6 +17,6 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-128dff?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=128dff)][website]
 
 ### Favorite quote
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." \— Steve Jobs
 
 [website]: https://github.com/tea418pot
