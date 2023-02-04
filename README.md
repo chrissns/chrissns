@@ -1,6 +1,6 @@
 # Christian Sohns
 
-Hi there 👋
+Hi there 👋\
 I am a software engineer that creates apps for the web, iOS and other Apple platforms.
 
 ### Languages
