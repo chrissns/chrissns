@@ -18,6 +18,7 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 [![Less Badge](https://img.shields.io/badge/-Less-34459a?style=for-the-badge&labelColor=black&logo=Less&logoColor=34459a)][website]
 
 ### Social
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)][github]
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
@@ -25,5 +26,6 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
 [website]: https://github.com/tea418pot
+[github]: https://github.com/tea418pot
 [linkedIn]: https://www.linkedin.com/in/christian-sohns-a90518205
 [instagram]: https://instagram.com/chr.sns.dev
