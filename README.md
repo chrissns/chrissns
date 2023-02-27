@@ -16,7 +16,7 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C875A)][website]
 [![Less Badge](https://img.shields.io/badge/-Less-34459a?style=for-the-badge&labelColor=black&logo=Less&logoColor=34459a)][website]
 
-### Favorite quote
+### Inspiration
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
 [website]: https://github.com/tea418pot
