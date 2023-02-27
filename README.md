@@ -22,7 +22,7 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-Visit me on my website at https://christiansohns.de.
+Follow me on my social profiles or visit me on my website at https://christiansohns.de.
 
 ### Inspiration
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
