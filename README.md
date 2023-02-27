@@ -1,7 +1,7 @@
 # Christian Sohns
 
 Hi there 👋\
-I am a software engineer who creates apps for the web, iOS and other Apple platforms.
+I am a software engineer who creates apps for the web, iOS and other Apple platforms since 2015.
 
 ### Languages
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)][github]
