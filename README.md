@@ -19,9 +19,11 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 
 ### Social
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ### Inspiration
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
 [website]: https://github.com/tea418pot
-[linkedIn]: https://linkedin.com/
+[linkedIn]: https://www.linkedin.com/in/christian-sohns-a90518205
+[instagram]: https://instagram.com/chr.sns.dev
