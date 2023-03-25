@@ -4,10 +4,10 @@ Hi there 👋\
 I am a software engineer who creates apps for the web, iOS and other Apple platforms since 2015.
 
 ### Languages
-[![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)][github]
-[![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)][github]
-[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=6723cd)][github]
-[![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=black&logo=Swift&logoColor=fa8128)][github]
+[![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=white)][github]
+[![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white)][github]
+[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&labelColor=6723cd&logo=CSharp&logoColor=white)][github]
+[![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&labelColor=fa8128&logo=Swift&logoColor=white)][github]
 
 ### Tools
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007acc)][github]
