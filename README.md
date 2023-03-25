@@ -27,6 +27,7 @@ Follow me on my social profiles or visit me on my website at https://christianso
 
 ### Inspiration
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
+
 [website]: https://github.com/tea418pot
 [github]: https://github.com/tea418pot
 [linkedIn]: https://www.linkedin.com/in/christian-sohns-a90518205
