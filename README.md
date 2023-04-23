@@ -11,7 +11,7 @@ I am a software engineer who creates apps for the web, iOS and other Apple platf
 
 ### Tools
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=VisualStudioCode&logoColor=white)][github]
-[![Xcode Badge](https://img.shields.io/badge/-Xcode-128dff?style=for-the-badge&logo=Xcode&logoColor=white)][github]
+[![Xcode Badge](https://img.shields.io/badge/-Xcode-108bfa?style=for-the-badge&logo=Xcode&logoColor=white)][github]
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-004497?style=for-the-badge&logo=Swift&logoColor=white)][github]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
