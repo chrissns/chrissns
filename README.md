@@ -32,4 +32,4 @@ Follow me on my social profiles.
 [website]: https://github.com/tea418pot
 [github]: https://github.com/tea418pot
 [linkedIn]: https://www.linkedin.com/in/christian-sohns-a90518205
-[instagram]: https://instagram.com/chr.sns.dev
+[instagram]: https://instagram.com/chr.sns
