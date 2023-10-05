@@ -1,7 +1,7 @@
 # Christian Sohns
 
 Hi there 👋\
-I am a software engineer who creates apps for the web, iOS and other Apple platforms since 2015.
+I create apps for the web with Vue.js and Node.js and also iOS and other Apple platform apps with Swift and SwiftUI.
 
 ### Languages
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)][github]
