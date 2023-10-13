@@ -8,7 +8,7 @@ I create apps for the web with Vue.js and Node.js and also iOS and other Apple p
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)][github]
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&logo=Swift&logoColor=white)][github]
-[![Java Badge](https://img.shields.io/badge/-Java-FFDBAC?style=for-the-badge&logo=JDK&logoColor=white)][github]
+[![Java Badge](https://img.shields.io/badge/-Java-FFDBAC?style=for-the-badge&logo=jre&logoColor=white)][github]
 
 ### Tools
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=VisualStudioCode&logoColor=white)][github]
