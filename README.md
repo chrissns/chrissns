@@ -1,7 +1,7 @@
 # Christian Sohns
 
 Hi there 👋\
-I create apps for the web with Vue and Node and also iOS and other Apple platform apps with Swift and SwiftUI.
+I create apps for the web with Vue and also iOS and other Apple platform apps with Swift and SwiftUI.
 
 ### Languages 💬
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-daaa48?style=for-the-badge&logo=javascript&logoColor=white)][github]
