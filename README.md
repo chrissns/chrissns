@@ -25,6 +25,7 @@ I create apps for the web with Vue.js and Node.js and also iOS and other Apple p
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-fc5185?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
+See my public repositories [here](https://github.com/chrissns?tab=repositories).
 
 ### Inspiration
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
