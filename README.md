@@ -6,7 +6,7 @@ I create apps for the web with Vue.js and Node.js and also iOS and other Apple p
 ### Languages
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)][github]
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)][github]
-[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
+[![C# Badge](https://img.shields.io/badge/-C#-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&logo=Swift&logoColor=white)][github]
 [![Java Badge](https://img.shields.io/badge/-Java-ff7f50?style=for-the-badge&logo=openjdk&logoColor=white)][github]
 
