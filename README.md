@@ -26,7 +26,7 @@ I create apps for the web with Vue as well as iOS apps with Swift and SwiftUI.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-fc5185?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ### My work 📁
-See my public repositories [here](https://github.com/chrissns?tab=repositories&type=public).
+To view some of my work, see my [public repositories](https://github.com/chrissns?tab=repositories&type=public).
 
 ### Inspiration ☀️
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
