@@ -21,7 +21,7 @@ I create apps for the web with Vue as well as iOS apps with Swift and SwiftUI.
 [![Git Badge](https://img.shields.io/badge/Git-DE3433?style=for-the-badge&logo=Git&logoColor=white)][github]
 
 ### Social 📱
-[![GitHub Badge](https://img.shields.io/badge/GitHub-232424?style=for-the-badge&logo=GitHub&logoColor=white)][github]
+[![GitHub Badge](https://img.shields.io/badge/GitHub-282929?style=for-the-badge&logo=GitHub&logoColor=white)][github]
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-fc5185?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
