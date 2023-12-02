@@ -4,21 +4,21 @@ Hi there 👋\
 I create web apps with Vue, backends with Java and C# as well as iOS apps with Swift and SwiftUI.
 
 ### Languages 💬
+[![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&logo=Swift&logoColor=white)][github]
+[![Java Badge](https://img.shields.io/badge/-Java-ff7f50?style=for-the-badge&logo=openjdk&logoColor=white)][github]
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-daaa48?style=for-the-badge&logo=javascript&logoColor=white)][github]
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)][github]
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
-[![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&logo=Swift&logoColor=white)][github]
-[![Java Badge](https://img.shields.io/badge/-Java-ff7f50?style=for-the-badge&logo=openjdk&logoColor=white)][github]
 
 ### Tools ⚒️
-[![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=VisualStudioCode&logoColor=white)][github]
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-108bfa?style=for-the-badge&logo=Xcode&logoColor=white)][github]
-[![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-004497?style=for-the-badge&logo=Swift&logoColor=white)][github]
-[![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=VisualStudioCode&logoColor=white)][github]
+[![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&logo=Docker&logoColor=white)][github]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)][github]
 [![Git Badge](https://img.shields.io/badge/Git-DE3433?style=for-the-badge&logo=Git&logoColor=white)][github]
+[![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
 
 ### Social 📱
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3c3d3d?style=for-the-badge&logo=GitHub&logoColor=white)][github]
