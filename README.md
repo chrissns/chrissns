@@ -6,9 +6,9 @@ I create web apps with Vue, backends with Java and C# as well as iOS apps with S
 ### Languages 💬
 [![Swift Badge](https://img.shields.io/badge/-Swift-fa8128?style=for-the-badge&logo=Swift&logoColor=white)][github]
 [![Java Badge](https://img.shields.io/badge/-Java-ff7f50?style=for-the-badge&logo=openjdk&logoColor=white)][github]
+[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-daaa48?style=for-the-badge&logo=javascript&logoColor=white)][github]
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)][github]
-[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
 
 ### Tools ⚒️
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-108bfa?style=for-the-badge&logo=Xcode&logoColor=white)][github]
