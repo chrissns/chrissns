@@ -13,7 +13,6 @@ I create web apps with Vue, backends with Java and C# as well as iOS apps with S
 ### Tools ⚒️
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-108bfa?style=for-the-badge&logo=Xcode&logoColor=white)][github]
 [![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-004497?style=for-the-badge&logo=Swift&logoColor=white)][github]
-[![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=VisualStudioCode&logoColor=white)][github]
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&logo=Docker&logoColor=white)][github]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)][github]
