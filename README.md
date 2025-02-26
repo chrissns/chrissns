@@ -17,7 +17,7 @@ I create web apps with Vue/Nuxt and backends with C#/.NET.
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&logo=Docker&logoColor=white)][github]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)][github]
-[![Vue Badge](https://img.shields.io/badge/-Nuxt-3C875A?style=for-the-badge&logo=Nuxt&logoColor=white)][github]
+[![Nuxt Badge](https://img.shields.io/badge/-Nuxt-00CD82?style=for-the-badge&logo=Nuxt&logoColor=white)][github]
 [![Git Badge](https://img.shields.io/badge/Git-DE3433?style=for-the-badge&logo=Git&logoColor=white)][github]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
 
