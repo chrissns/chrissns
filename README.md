@@ -11,11 +11,11 @@ I create web apps with Vue/Nuxt and backends with C#/.NET.
 ### Tools ⚒️
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![Nuxt Badge](https://img.shields.io/badge/-Nuxt-00CD82?style=for-the-badge&logo=Nuxt&logoColor=white)][github]
-[![JetBrains Badge](https://img.shields.io/badge/-jetbrains-6b57ff?style=for-the-badge&logo=JetBrains&logoColor=white)][github]
+[![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&logo=Docker&logoColor=white)][github]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)][github]
 [![Git Badge](https://img.shields.io/badge/Git-DE3433?style=for-the-badge&logo=Git&logoColor=white)][github]
-[![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
+[![JetBrains Badge](https://img.shields.io/badge/-jetbrains-6b57ff?style=for-the-badge&logo=JetBrains&logoColor=white)][github]
 
 ### Social 📱
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3c3d3d?style=for-the-badge&logo=GitHub&logoColor=white)][github]
