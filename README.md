@@ -4,7 +4,7 @@ Hi there 👋\
 I create web apps with Vue/Nuxt and backends with C#/.NET.
 
 ### Languages 💬
-[![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
+[![C# Badge](https://img.shields.io/badge/-CS-6723cd?style=for-the-badge&logo=CSharp&logoColor=white)][github]
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)][github]
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-daaa48?style=for-the-badge&logo=javascript&logoColor=white)][github]
 
