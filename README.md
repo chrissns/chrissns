@@ -28,7 +28,7 @@ To view some of my work, see my [public repositories](https://github.com/chrissn
 ### Inspiration ☀️
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 
-[website]: https://github.com/tea418pot
-[github]: https://github.com/tea418pot
+[website]: https://github.com/chrissns
+[github]: https://github.com/chrissns
 [linkedIn]: https://www.linkedin.com/in/christian-sohns-a90518205
 [instagram]: https://instagram.com/chr.sns
