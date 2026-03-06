@@ -26,8 +26,9 @@ I create web apps with Vue/Nuxt and backends with C#/.NET.
 To view some of my work, see my [public repositories](https://github.com/chrissns?tab=repositories&type=public).
 
 ### Inspiration ☀️
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." – Steve Jobs
 > "Reveal your works to the Lord, and your thoughts will be directed." – Proverbs 16:3
+---
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." – Steve Jobs
 
 [website]: https://github.com/chrissns
 [github]: https://github.com/chrissns
