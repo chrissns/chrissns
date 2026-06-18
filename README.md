@@ -1,7 +1,5 @@
-# Christian Sohns
-
-Hi there 👋\
-I create web apps with Vue/Nuxt and backends with C#/.NET.
+**Hi there, I'm Chris 👋**\
+I'm a fullstack engineer who loves turning ideas into things people enjoy using.
 
 ### Languages 💬
 [![C# Badge](https://img.shields.io/badge/-CSharp-6723cd?style=for-the-badge&logo=c&logoColor=white)][github]
@@ -11,15 +9,14 @@ I create web apps with Vue/Nuxt and backends with C#/.NET.
 ### Tools ⚒️
 [![Vue Badge](https://img.shields.io/badge/-Vue-3C875A?style=for-the-badge&logo=Vue.js&logoColor=white)][github]
 [![Nuxt Badge](https://img.shields.io/badge/-Nuxt-00CD82?style=for-the-badge&logo=Nuxt&logoColor=white)][github]
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)][github]
 [![.NET Badge](https://img.shields.io/badge/-Dotnet-6723cd?style=for-the-badge&logo=Dotnet&logoColor=white)][github]
 [![Docker Badge](https://img.shields.io/badge/-Docker-0055a9?style=for-the-badge&logo=Docker&logoColor=white)][github]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)][github]
-[![JetBrains Badge](https://img.shields.io/badge/-jetbrains-6b57ff?style=for-the-badge&logo=JetBrains&logoColor=white)][github]
-[![Git Badge](https://img.shields.io/badge/Git-DE3433?style=for-the-badge&logo=Git&logoColor=white)][github]
 
 ### Social 📱
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3c3d3d?style=for-the-badge&logo=GitHub&logoColor=white)][github]
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)][linkedIn]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)][linkedIn]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-fc5185?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ### My work 📁
