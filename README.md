@@ -23,7 +23,7 @@ I'm a fullstack engineer who loves turning ideas into things people enjoy using.
 To view some of my work, see my [public repositories](https://github.com/chrissns?tab=repositories&type=public).
 
 ### Inspiration ☀️
-> "Reveal your works to the Lord, and your thoughts will be directed." – Proverbs 16:3
+> "Reveal your works to the Lord, and your thoughts will be directed." – Proverbs 16:3\
 > "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." – Steve Jobs
 
 [website]: https://github.com/chrissns
